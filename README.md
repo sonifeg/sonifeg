@@ -40,7 +40,7 @@ const sonia = {
 
 <h2 align="center"> Github Stats
   <hr>
-    
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonifeg&show_icons=true&theme=radical)
   </h2>
    
