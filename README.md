@@ -38,7 +38,9 @@ const sonia = {
 ```
 <br>
 
-### Github Stats 
+<h2 align="center"> Github Stats
+  <hr>
     
-![](https://github-readme-stats.vercel.app/api?username=sonifeg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonifeg&show_icons=true&theme=radical)
+  </h2>
    
