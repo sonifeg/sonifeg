@@ -26,6 +26,7 @@
 </p>
 
 <h2 align="center"> A little more about me</h2>
+
 ```javascript
 const sonia = {
   pronouns: "she" | "her",
