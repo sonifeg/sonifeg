@@ -36,3 +36,9 @@ const sonia = {
  challenge: "To become a frontend developer and keep learning until I reach senior level."
 }
 ```
+<br>
+
+### Github Stats 
+    
+![](https://github-readme-stats.vercel.app/api?username=sonifeg)
+   
