@@ -38,9 +38,10 @@ const sonia = {
 ```
 <br>
 
-[![Sonia's github stats](https://github-readme-stats.vercel.app/api?username=sonifeg&show_icons=true&theme=radical)](https://github.com/sonifeg)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonifeg&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
+<h2 align="center"> Github Stats
+  <hr>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonifeg&show_icons=true&theme=radical)
+  </h2>
 
 
