@@ -1,4 +1,4 @@
-<h1 align="center">𝐇i there! I'm Sonia <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h1 align="center">𝐇i there! I'm Sonia <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 <br>
 <a href="https://www.linkedin.com/in/sonia-felizardo-gomez">
   <img align="center" alt="Sonifeg @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,10 +16,10 @@
     This is ME, Sonia Felizardo Gómez, A Front-end Developer student from <a href="https://www.laboratoria.la/"> <b>Laboratoria's Bootcamp</b>, Guadalajara,Jalisco, México</a>.<br>
     Interior designer undergraduate from <a href="https://www.uat.edu.mx/SitePages/principal.aspx"> <b>Universidad Autónoma de Tamaulipas</b> Tampico,Tamaulipas, México</a>.<br>
     And an Ergonomics Master degree from<a href="https://www.udg.mx"> <b>Universidad de Guadalajara</b>,Guadalajara, Jalisco, México</a>.<br>
- A budding <b>Front-end Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>creative and curious person</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is a <b>lover</b>
+ A budding <b>Front-end Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> and a <b>creative and curious person</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36">&nbsp,<br>who is a <b>lover</b>
     of creating unique digital experiences, i want to. <b>improving</b> myself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20">&nbsp.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning with perseverance and a clear goal!!!</i></b> 
